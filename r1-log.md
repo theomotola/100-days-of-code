@@ -8,3 +8,4 @@ The log of my #100DaysOfCode challenge. Started on [December 27, 2019].
 Introduction to JavaScrit  https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/
 
 ### R1D2
+Algorithms and Data Structures https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/increment-a-number-with-javascript
